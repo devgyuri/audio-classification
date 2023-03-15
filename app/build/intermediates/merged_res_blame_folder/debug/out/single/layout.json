@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\gksmf\\AndroidStudioProjects\\DeepLearning\\audio_classification\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_probability.xml",
+        "source": "C:\\Users\\gksmf\\AndroidStudioProjects\\DeepLearning\\audio_classification\\android\\app\\src\\main\\res\\layout\\item_probability.xml"
+    },
+    {
+        "merged": "C:\\Users\\gksmf\\AndroidStudioProjects\\DeepLearning\\audio_classification\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\controls_bottom_sheet.xml",
+        "source": "C:\\Users\\gksmf\\AndroidStudioProjects\\DeepLearning\\audio_classification\\android\\app\\src\\main\\res\\layout\\controls_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\gksmf\\AndroidStudioProjects\\DeepLearning\\audio_classification\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_audio.xml",
+        "source": "C:\\Users\\gksmf\\AndroidStudioProjects\\DeepLearning\\audio_classification\\android\\app\\src\\main\\res\\layout\\fragment_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\gksmf\\AndroidStudioProjects\\DeepLearning\\audio_classification\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\gksmf\\AndroidStudioProjects\\DeepLearning\\audio_classification\\android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
